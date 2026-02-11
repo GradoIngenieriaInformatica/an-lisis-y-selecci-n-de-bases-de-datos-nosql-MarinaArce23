@@ -1,2 +1,2 @@
 TIPO | Base de Datos de Series Temporales.
-Justificación: Diseñada específicamente para manejar una ingesta masiva de datos (millones de registros) y realizar consultas rápidas basadas en intervalos de tiempo.
+-Justificación: Diseñada específicamente para manejar una ingesta masiva de datos (millones de registros) y realizar consultas rápidas basadas en intervalos de tiempo.
