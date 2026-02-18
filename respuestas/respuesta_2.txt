@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+DOCUMENTAL (NoSQL) | Estructura flexible para artículos con metadatos variables y versiones no uniformes.

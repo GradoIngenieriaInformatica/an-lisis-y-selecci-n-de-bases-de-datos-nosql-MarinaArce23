@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+GRAFOS | Relaciones altamente conectadas entre nodos, cálculo eficiente de rutas óptimas y caminos alternativos

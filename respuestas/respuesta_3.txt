@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+SERIES TEMPORALES (TSDB) | Alto volumen de datos indexados por fecha y hora con consultas por rangos temporales y agregaciones.
