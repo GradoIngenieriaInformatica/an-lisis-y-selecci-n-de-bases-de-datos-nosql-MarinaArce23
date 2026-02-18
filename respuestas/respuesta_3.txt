@@ -1,3 +1,1 @@
-TIPO | Base de Datos de Series Temporales.
--Justificación: Diseñada específicamente para manejar una ingesta masiva de datos (millones de registros) y realizar consultas rápidas basadas en intervalos de tiempo.
--
+SERIES TEMPORALES (TSDB) | Alto volumen de datos indexados por fecha y hora con consultas por rangos temporales y agregaciones.
